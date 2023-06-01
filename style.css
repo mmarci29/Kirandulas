@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(hatterkep.jpg);
+    background-image: url(asd.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -68,7 +68,7 @@ img:hover{
 
 h3{
     color: #fff;
-    margin: 100px 10px 10px;
+    margin: 100px 10px 50px;
     font-style: italic;
     font-weight: 100;
     font-size: 18px;
@@ -81,9 +81,9 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 40px;
     letter-spacing: 10px;
-    opacity: 0.6;
+    opacity: 1;
 
-    background-image: linear-gradient(100deg, #ffffff, #ffffffbb, #ffffff, #ffffffb9, #ffffff);
+    background-color: yellow;
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
