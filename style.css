@@ -122,3 +122,8 @@ h1{
 .title1{
     color: white;
 }
+footer {
+    background-color: #444;
+    color: white;
+    padding: 20px;
+    text-align: center;}
