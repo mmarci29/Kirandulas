@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(asd.jpg);
+    background-image: url(png/asd.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -20,7 +20,7 @@ body{
     width: 930px;
     height: 520px;
     box-shadow: 0 0 8px rgb(121, 43, 43);
-    background-image: url(hatterkep.jpg);
+    background-image: url(png/hatterkep.jpg);
     background-position: center;
     background-size: cover;
 }
