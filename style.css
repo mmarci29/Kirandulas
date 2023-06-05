@@ -17,8 +17,8 @@ body{
     backdrop-filter: blur(3px);
 }
 .glass{
-    width: 930px;
-    height: 520px;
+    width: 1200px;
+    height: 730px;
     box-shadow: 0 0 8px rgb(121, 43, 43);
     background-image: url(png/hatterkep.jpg);
     background-position: center;
@@ -100,28 +100,34 @@ h1{
     margin-top: 80px;
     margin-right: 50px;
 }
+
 .icons ul{
     flex: 1;
     text-align: right;
 }
+
 .icons ul li{
     list-style: none;
     display: inline-block;
     margin: 15px;
     padding: 10px;
 }
+
 .icons ul li i{
     text-decoration: none;
     font-size: 20px;
     cursor: pointer;
     transition: 0.1s all;
 }
+
 .icons ul li i:hover{
     color: aqua;
 }
+
 .title1{
     color: yellow;
 }
+
 footer {
     background-color: #444;
     color: white;
